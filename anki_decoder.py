@@ -56,7 +56,7 @@ def create_deck(input_file_name: str):
     deck = []
 
     for line in lines:
-        if line.startswith('#'):  # Ignore comments
+        if "#" in line:  # Ignore comments
             continue
 
         card_parts = line.split()
@@ -69,7 +69,11 @@ def create_deck(input_file_name: str):
         back_english = format_word(" ".join(card_parts[2:])) if len(card_parts) > 2 else ''
 
         try:
-            back_russian = translator.translate(front, src='ja', dest='ru').text.lower()
+            back_russian = ""
+            for w in back_english.split():
+                back_russian += translator.translate(w, src='en', dest='ru').text.lower() + ' '
+            back_russian = back_russian[:-1]
+            back_russian += ', ' + translator.translate(front, src='ja', dest='ru').text.lower()
         except Exception as e:
             print(f"Translation error for '{front}': {e}")
             back_russian = "Translation failed"

@@ -1,0 +1,1267 @@
+見ます [みます] /check/
+診ます [みます] /check/
+探します [さがします] /look for, search/
+遅れます [おくれます] /be late/
+電車に遅れます [でんしゃにおくれます] /be late for a train/
+間に合います [まにあいます] /be on time/
+電車に間に合う [でんしゃにまにあいます] /be on time for a train/
+やります [やります] /do/
+参加します [さんかします] /attend/
+パーティーに参加します [パーティーにさんかします] /attend a party/
+申し込みます [もうしこみます] /apply for, enter for/
+都合がいい [つごうがいい] /convenient (regarding time)/
+都合が悪い [つごうがわるい] /inconvenient (regarding time)/
+気分がいい [きぶんがいい] /feel well/
+気分が悪い [きぶんがわるい] /feel ill/
+新聞社 [しんぶんしゃ] /newspaper publishing company, newspaper office/
+柔道 [じゅうどう] /judo/
+運動会 [うんどうかい] /athletic meeting/
+場所 [ばしょ] /place/
+ボランティア [ボランティア] /volunteer/
+～弁 [～べん] /dialect/
+今度 [こんど] /next time, another time/
+ずいぶん [ずいぶん] /pretty, very/
+直接 [ちょくせつ] /directly/
+いつでも [いつでも] /any time/
+どこでも [どこでも] /any place/
+だれでも [だれでも] /anybody/
+何でも [なんでも] /anything/
+こんな～ [こんな～]  /~ like this/
+そんな～ [そんな～] /~ like that (near the listener)/
+あんな～ [あんな～] /~ like that (far from both the speaker and the listener)/
+こどもの日 [こどものに] /Children's Day/
+片づきます [かたづぎます] /put in order/
+ごみ [ごみ] /garbage, trash, dust/
+ごみを出します [ごみをだします] /put out the trash/
+燃えます [もえます] /burn/
+燃えるごみ [もえるごみ] /burnable trash/
+燃えないごみ [もえないごみ] /non-burnable trash/
+月水金 [げっすいきん] /Monday, Wednesday and Friday/
+置き場 [おきば] /place where something is put/
+横 [よこ] /side/
+瓶 [びん] /bottle/
+缶 [かん] /can/
+お湯 [おゆ] /hot water/
+ガス [ガス] /gas/
+～会社 [～かいしゃ] /~ company/
+連絡します [れんらくします] /contact/
+困ったなあ [こまったなあ] /What shall I do?/
+電子メール [でんしメール] /electronic mail/
+宇宙 [うちゅう] /space/
+怖い [こわい] /be afraid of/
+宇宙船 [うちゅうせん] /spaceship/
+別の [べつの] /another/
+宇宙飛行士 [うちゅうひこうし] /astronaut/
+飼います [かいます] /keep (a pet), raise (an animal)/
+建てます [たてます] /build/
+走ります [はしります] /run, drive/
+道を走ります [みちをはしります] /run, drive along a road/
+取ります [とります] /take/
+休みを取ります [やすみをとります] /take a holiday/
+見えます [みえます] /can be seen/
+山が見えます [やまがみえます] /a mountain can be seen/
+聞こえます [きこえます] /can be heard/
+音が聞こます [おとがきこえます] /a sound can be heard/
+できます [できます] /can be made, be completed, come into existence/
+空港ができます [くうこうができます] /an airport can be made/
+開きます [ひらきます] /set up, open, hold/
+教室を開きます [きょうしつをひらきます] /set up a class/
+ペット [ペット] /pet/
+鳥 [とり] /bird/
+声 [こえ] /voice/
+波 [なみ] /wave/
+花火 [はなび] /fireworks/
+景色 [けしき] /scenery, view/
+昼間 [ひるま] /daytime/
+昔 [むかし] /old times, ancient times/
+道具 [どうぐ] /tool, instrument, equipment/
+自動販売機 [じどうはんばいき] /vending machine/
+通信販売 [つうしんはんばい] /mail order, mail-order sales/
+クリーニング [クリーニング] /(dry) cleaning, laundry/
+マンション [マンション] /condominium, apartment house/
+台所 [だいどころ] /kitchen/
+～教室 [～きょうしつ] /~class/
+パーティールーム [パーティールーム] /party room/
+～後 [～ご] /after ~ (duration of time)/
+～しか [～しか] /only ~ (used with negatives)/
+ほかの [ほかの] /other/
+はっきり [はっきり] /clearly/
+ほとんど [ほとんど] /almost all (in positive sentences), hardly, scarcely (in negative sentences)/
+関西空港 [かんさいくうこう] /Kansai Airport/
+秋葉原 [あきはばら] /name of a shopping district with many electrical and electronical stores/
+伊豆 [いず] /peninsula in Shizuoka Prefecture/
+日曜大工 [にちようだいく] /Sunday carpenter , do it yourself-er/
+本棚 [ほんだな] /bookshelf/
+夢 [ゆめ] /dream/
+夢をみます [ゆめをみます] /have a dream/
+いつか [いつか] /sometime, someday/
+家 [いえ] /house, home/
+すばらしい [すばらしい] /marvelous, wonderful/
+子どもたち [こどもたち] /children/
+大好き [だいすき] /like very much/
+漫画 [まんが] /cartoon, comic strip/
+主人公 [しゅじんこう] /hero, heroine/
+形 [かたち] /shape/
+ロボット [ロボット] /robot/
+不思議 [ふしぎ] /fantastic, mysterious/
+ポケット [ポケット] /pocket/
+例えば [たとえば] /for example/
+付けます  [つけます] /attach, put on/
+自由に [じゆうに] /freely/
+空 [そら] /sky/
+飛びます [とびます] /fly/
+自分 [じぶん] /oneself/
+将来 [しょうらい] /future/
+売れます [うれます] /sell, be sold/
+踊ります [おどります] /dance/
+かみます [かみます] /chew, bite/
+選びます [えらびます] /choose/
+違います [ちがいます] /be different/
+通います [かよいます] /go to and from/
+大学に通います [だいがくにかよいます] /to go to and from university/
+メモします [メモします] /take a memo/
+まじめ [まじめ] /serious/
+熱心 [ねっしん] /earnest/
+優しい [やさしい] /gentle, kind/
+偉い [えらい] /great, admirable/
+ちょうどいい [ちょうどいい] /proper, just right/
+習慣 [しゅうかん] /custom/
+経験 [けいけん] /experience/
+力 [ちから] /power/
+人気 [にんき] /popular/
+形 [かたち] /form, shape/
+色 [いろ] /color/
+味 [あじ] /taste/
+ガム [ガム] /chewing gum/
+品物 [しなもの] /goods/
+値段 [ねだん] /price/
+給料 [きゅうりょう] /salary/
+ボーナス [ボーナス] /bonus/
+番組 [ばんぐみ] /program/
+ドラマ [ドラマ] /drama/
+小説 [しょうせつ] /novel/
+小説家 [しょうせつか] /novelist/
+歌手 [かしゅ] /singer/
+管理人 [かんりにん] /janitor/
+息子 [むすこ] /(my) son/
+息子さん [むすこさん] /(someone else's) son/
+娘 [むすめ] /(my) daughter/
+娘さん [むすめさん] /(someone else's) daughter/
+自分 [じぶん] /oneself/
+将来 [しょうらい] /future/
+しばらく [しばらく] /a little while/
+たいてい [たいてい] /usually, mostly/
+それに[それに] /in addition/
+それで [それで] /and so/
+ちょっとを願いあるんですが [ちょっとを願いあるんですが] /I have a favor to ask /
+ホームステイ [ホームステイ] /homestay/
+会話 [かいわ] /conversation/
+おしゃべりします [おしゃべりします] /chat/
+お知らせ [おしらせ] /notice/
+日にち [ひにち] /date/
+土 [ど] /Saturday/
+体育館 [たいいくかん] /gymnasium/
+無料 [むりょう] /free of charge/
+開きます [あきます] /open/
+ドアが開きます [ドアがあきます] /a door opens/
+閉まりる [しまります] /close, shut/
+ドアが閉まる [ドアがしまります] /a door closes, shuts/
+つきます [つきます] /come on/
+電気がつきます [でんきがつきます] /a light comes on/
+消えます [きえます] /go off, disappear/
+電気が消えます [でんきがきえます] /a light goes off, disappears/
+込みます [こみます] /get crowded/
+道が込みます [みちがこみます] /a street gets crowded/
+すきます [すきます] /get empty/
+道がすきます [みちががすきます] /a street gets empty/
+壊れます [こわれます] /break/
+椅子が壊れります [いすがこわれます] /a chair breaks/
+割れます [われます] /break, smash/
+コップが割れます [コップがわれます] /a glass breaks/
+折れます [おれます] /break, snap/
+木が折れます [きがおれます] /a tree breaks, snaps/
+破れます [やぶれます] /tear/
+紙が破れます [かみがやぶれます] /the paper tears/
+汚れます [よごれます] /get dirty/
+服が汚れます [ふくがよごれます] /the clothes get dirty/
+付きます [つきます] /be attached/
+ポケットが付きます [ポケットがつきます] /a pocket is attached/
+外れます [はずれます] /be undone/
+ボタンが外れます [ボタンがはずれます] /a button is undone/
+止まります [とまります] /stop/
+エレベーターが止まります [エレベーターがとまります] /an elevator stops/
+まちがえます [まちがえます] /make a mistake/
+落します [おとします] /drop, loose/
+掛かります [かかります] /be locked/
+お皿 [おさら] /plate, dish/
+おちゃわん [おちゃわん] /rice bowl/
+コップ [コップ] /glass (vessel)/
+ガラス [ガラス] /glass (material)/
+袋 [ふくろ] /bag/
+財布 [さいふ] /wallet, purse/
+枝 [えだ] /branch, twig/
+駅員 [えきいん] /station employee/
+この辺 [このへん] /this neighborhood/
+～辺 [～へん] /neighborhood/
+このくらい [このくらい] /about this size/
+お先にどうぞ [おさきにどうぞ] /After you, Go ahead please/
+ああよかった [ああよかった] /Thank goodness! (used to express a feeling of relief)/
+今の電車 [いまのでんしゃ] /the train which has just left/
+忘れ物 [わすれもの] /things left behind, lost things/
+～側 [～がわ] /side/
+ポケット [ポケット] /pocket/
+覚えていません [おぼえていません] /I don't remember /
+網棚 [あみだな] /rack/
+確か [たしか]  /I suppose, if I am correct /
+地震 [じしん] /earthquake/
+壁 [かべ] /wall/
+針 [はり] /hands (of a clock)/
+指します [さします] /point /
+駅前 [えきまえ] /the area in front of the station/
+倒れます [たおれます] /fall down/
+西 [にし] /west/
+方 [ほう] /direction/
+はります [はります] /put up, post, paste/
+掛けます [かけます] /hang/
+飾ります [かざります] /decorate, display/
+並べます [ならべます] /arrange, line up/
+植えます [うえます] /plant/
+戻します [もどします] /return, put ~ back/
+まとめます [まとめます] /put ~ together, put ~ in shape, sum up/
+片付けます [かたづけます] /put things in order, tidy up/
+しまいます [しまいます] /put things in their proper place/
+決めます [きめます] /decide/
+知らせます [しらせます] /to inform/
+相談します [そうだんします] /consult, discuss/
+予習します [よしゅうします] /prepare one's lesson/
+復習します [ふくしゅうします] /review one's lesson/
+そのままにします [そのままにします] /leave thing as they are/
+お子さん [おこさん] /(someone else's) child/
+授業 [じゅぎょう] /class/
+講義 [こうぎ] /lecture/
+ミーティング [ミーティング] /meeting/
+予定 [よてい] /a plan, a scheduled/
+お知らせ [おしらせ] /a notice/
+案内書 [あんないしょ] /guidebook/
+カレンダー [カレンダー] /calendar/
+ポスター [ポスター] /poster/
+ごみ箱 [ごみばこ] /trash can, dustbin/
+人形 [にんぎょう] /doll/
+花瓶 [かびん] /vase/
+鏡 [かがみ] /mirror/
+引き出し [ひきだし] /drawer/
+玄関 [げんかん] /front door, porch, entrance hall/
+廊下 [ろうか] /corridor, hallway/
+壁 [かべ] /wall/
+池 [いけ] /pond/
+交番 [こうばん] /police box /
+元の所 [もとのところ] /original place/
+周り [まわり] /round, around/
+真ん中 [まんなか] /center/
+隅 [すみ] /corner/
+まだ [まだ] /not yet/
+～ほど [～ほど] /about ~/
+予定表 [よていひょう] /schedule/
+ご苦労さま [ごくろうさま] /Thank you for your hard work/
+希望 [きぼう] /hope, request/
+何かご希望がありますか [なにかごきぼうがありますか] /Do you have any requests?/
+ミューシカル [ミューシカル] /musical/
+これはいいですね [これはいいですね] /That's a good idea, that sounds nice/
+ブロードウエイ [ブロードウエイ] /Broadway/
+丸い [まるい] /round/
+月 [つき] /moon/
+ある～ [ある～] /one ~, a certain ~/
+地球 [ちきゅう] /earth/
+うれしい [うれしい] /happy, glad/
+嫌 [いや] /hateful, disagreeable/
+すると [すると] /and then/
+目が覚めます [めがさめます] /wake up/
+始まります [はじまります] /begin, starts/
+式が始まります [しきがはじまります] /a ceremony begin, starts/
+続けます [つづけます] /continue/
+見つけます [みつけます] /find/
+受けます [うけます] /take an examination/
+試験を受けます [しけんをうけます] /take an examination/
+入学します [にゅうがくします] /enter  (a university)/
+卒業します [そつぎょうします] /graduate (from an university)/
+出席します [しゅっせきします] /attend/
+休憩します [きゅうけいします] /take a break, take a rest/
+連休 [れんきゅう] /consecutive holidays/
+作文 [さくぶん] /essay, composition/
+展覧会 [てんらんかい] /exhibition/
+結婚式 [けっこんしき] /wedding ceremony/
+を葬式  [をそうしき] /funeral/
+式 [しき] /ceremony/
+本社 [ほんしゃ] /head office/
+支店 [してん] /branch office/
+教会 [きょうかい] /church/
+大学院 [だいがくいん] /graduate school/
+動物園 [どうぶつえん] /zoo/
+温泉 [おんせん] /hot spring, spa/
+お客さん [おきゃくさん] /visitor, guest, customer, client/
+誰か [だれか] /somebody/
+～の方 [～のほう] /place toward ~, direction of ~/
+ずっと [ずっと] /all the time/
+残ります [のこります] /remain, be left/
+月に [つきに] /per month/
+普通の [ふつうの] /ordinary, common, usual/
+インターネット [インターネット] /Internet/
+村 [むら] /village/
+映画館 [えいがかん] /movie theater/
+嫌 [いや] /disagreeable, hateful/
+空 [そら] /sky/
+閉じます [とじます] /close/
+都会 [とかい] /city/
+子どもたち [こどもたち] /children/
+自由に [じゆうに] /freely/
+世界中 [せかいじゅう] /all over the world/
+集まります [あつまります] /gather/
+美しい [うつくしい] /beautiful/
+自然 [しぜん] /nature /
+すばらしさ [すばらしさ] /goodness, virtue/
+気がつきます [きがきます] /notice, become aware of/
+運動します [うんどうします] /take exercise/
+成功します [せいこうします] /succeed/
+失敗する [しっぱいします] /fail/
+試験に失敗する [しけんにしっぱいします] /fail an examination/
+合格する [ごうかくします] /pass/
+試験に合格する [しけんにごうがくします] /pass an examination/
+戻ります [もどります] /return/
+やみます [やみます] /stop/
+雨がやみます [あめがやみます] /stop raining/
+晴れます [はれます] /clear up/
+曇ります [くもります] /get cloudy/
+吹きます  [ふきます] /blow/
+風が吹きます  [かぜがふきます] /wind blows/ 
+病気が治ります [びょうきがなおります] /recover from (sickness), get well/
+故障が直ります [こしょうがなおります] /be fixed, be repaired/
+続づきます [つづきます] /continue/
+熱が続づきます [ねつがつづきます] /high temperature continues/
+ひきます [ひきます] /catch/
+かぜをひきます [かぜをひきます] /catch a cold/
+冷やします [ ひやします] /cool/
+心配 [しんぱい] /worried, anxious/
+十分 [じゅうぶん] /enough, sufficient/
+おかしい [おかしい] /strange, funny/
+うるさい [うるさい] /noisy/
+やけど [やけど] /burning/
+やけどをします [やけどをします] /get burned/
+けが [けが] /injury/
+けがをします [けがをします] /get injured/
+せき [せき] /cough/
+せきがします [せきがします] /have a cough/
+インフルエンザ [インフルエンザ] /influenza /
+空 [そら] /sky/
+太陽 [たいよう] /sun/
+星  [ほし] /star/
+月  [つき] /moon/
+風 [かぜ] /wind/
+北  [きた] /north/
+南  [みなみ] /south/
+西  [にし] /west/
+東  [ひがし] /east/
+水道 [すいどう] /faucet, tap, water supply/
+エンジン [エンジン] /engine/
+チーム [チーム] /team/
+今夜 [こんや] /this evening/
+夕方 [ゆうがた] /late afternoon/
+前  [まえ] /a time in the past, before/
+遅く  [おそく] /late (time)/
+こんなに [こんなに] /like this/
+そんなに [そんなに] /like that (concerning a matter related to the listener)/
+あんなに [あんなに] /like that (concerning a matter related to the listener and the speaker), that much/
+もしかしたら [もしかしたら] /possibly, perhaps/
+それはいけません [それはいけません] /That's too bad/
+オリンピック [オリンピック] /Olympic Games/
+元気 [げんき] /vigor/
+胃 [い] /stomach/
+働きすぎ [はたらきすぎ] /working too much/
+ストレス [ストレス] /stress/
+無理をします [むりをします] /work more than one's capacity/
+ゆっくりします [ゆっくりします] /take one's time/
+星占い [ほしうらない] /horoscope/
+牡牛座 [おうしざ] /Taurus/
+困ります [こまります] /be in trouble, have a problem/
+宝くじ [たからくじ] /lottery/
+当たります [あたります] /win/
+宝くじが当たります [たからくじがあたります] /win a lottery/
+健康 [けんこう] /health/
+恋愛 [れんあい] /romantic love/
+恋人 [こいびと] /sweetheart, boyfriend, girlfriend/
+お金持ち [おかねもち] /rich person/
+逃げます [にげます] /run away/
+騒ぎます [さわぎます] /make a noise/
+あきらめます [あきらめます] /give up/
+投げます [なげます] /throw/
+守ります [まもります] /keep, follow, obey/
+上げます [あげます] /raise, lift up/
+下げます [さげます] /lower, pull down/
+伝えます [つたえます] /convey (a message)/
+注意します [ちゅういします] /be careful/
+車に注意します [くるまにちゅういします] /be careful of cars/
+外します [はずします] /be away/
+席を外します [せきをはずします] /be away from one's desk/
+だめ [だめ] /not good, not permitted, impossible/
+席 [せき] /seat/
+ファイト [ファイト] /fight/
+マーク [マーク] /mark/
+ボール [ボール] /ball/
+洗濯機 [せんたくき] /washing mashine/
+～機 [～き] /~ machine/
+規則 [きそく] /regulation, rule/
+使用禁止 [しようきんし] /Do not use/
+立入禁止 [たちいりきんし] /Keep Out/
+入口 [いりぐち] /entrance/
+出口 [でぐち] /exit/
+非常口 [ひじょうぐち] /emergency exit/
+無料 [むりょう] /free of charge/
+本日休業 [ほんじつきゅうぎょう] /closed today/
+営業中 [えいぎょうちゅう] /open for business/
+使用中 [しようちゅう] /in use/
+～中 [～ちゅう] /~ing/
+どういう [どういう] /what kind of ~/
+もう [もう] /(not) any longer (used with negatives)/
+あと～ [あと～] /~ left/
+駐車違反 [ちゅうしゃいはん] /parking violation/
+そりゃあ [そりゃあ] /well/
+～以内 [～いない] /within ~/
+警察 [けいさつ] /police station/
+罰金 [ばっきん] /fine/
+電報 [でんぽう] /telegram/
+人々 [ひとびと] /people/
+急用 [きゅうよう] /urgent business/
+打ちます [うちます] /send/
+電報を打ちます [でんぽうをうちます] /send a telegram/
+電報代 [でんぽうだい] /telegram charge/
+できるだけ [できるだけ] /as much as possible/
+短く [みじかく] /shortly, briefly/
+また [また] /and/
+例えば [たとえば] /for example/
+危篤 [キトク] /in a critical condition/
+重い病気 [おもいびょうき] /serious illness/
+明日 [あす] /tomorrow/
+留守 [るす] /absence/
+留守番 [るすばん] /looking after the house during the owner's absence/
+お祝い [おいわい] /celebration/
+亡くなります [なくなります] /pass away, die/
+悲しみ [かなしみ] /sorrow, sadness/
+利用します [りようします] /use/
+磨きます [みがきます] /brush, polish/
+歯を磨きます [はをみがきます] /brush one's teeth/
+組み立てます [くみたてます] /assemble/
+降ります [おります] /bend, fold, break, snap/
+気がつきます [きがつきます] /notice, become aware of/
+忘れ物に気がつきます [わすれものにきがつきます] /notice, become aware of things left behind/
+つけます [つけます] /put in, attach/
+しょうゆをつけます [しょうゆをつけます] /put in soy sauce/
+見つかります [みつかります] /be found/
+かぎを見つかりる [かぎをみつかります] /a key was found/
+します [します[] /put on ,wear/
+ネクタイをします [ネクタイをします] /wear a tie/
+質問します [しつもんをします] /ask a a question/
+細い [ほそい] /thin (of small diameter)/
+太い [ふとい] /thick (of large diameter)/
+盆踊り [ぼんおどり] /Bon Festival dance/
+スポーツクラブ [スポーツクラブ] /sports club/
+ 家具 [かぐ] /furniture/
+キー [キー] /key/
+シートベルト[ シートベルト] /seat belt /
+説明書 [せつめいしょ] /explanatory pamphlet, instruction book/
+図 [ず] /figure, drawing/
+線 [せん] /line/
+矢印 [やじるし] /arrow (sign)/
+黒 [くろ] /black (noun)/
+白 [しろ] /white (noun)/
+赤 [あか] /red (noun) /
+青 [あお] /blue (noun)/
+紺 [こん] /navy blue, dark blue (noun)/
+黄色 [きいろ] /yellow (noun)/
+茶色 [ちゃいろ] /brown (noun)/
+しょうゆ [しょうゆ] /soy sauce/
+ソース [ソース] /sauce, Worcestershire sauce/
+～か ～ [～か～]　/~ or ~ /
+ゆうべ [ゆうべ] /last night/
+さっき [さっき] /a short while ago/
+茶道 [さどう] /tea ceremony/
+お茶をたてます [おちゃをたてます] /make green tea/
+先に [さきに] /first (when doing something before something else)/
+載せます [のせます] /place on, load on/
+これでいいですか [これでいいですか] /Is this all right?/
+苦い [にがい] /bitter/
+親子どんぶり [おやこどんぶり] /a bowl of cooked rice with chicken and egg/
+材料 [ざいりょう] /material, ingredient/
+ー分 [ーぶん] /portion (used for indicating quantity) /
+ーグラム [ーグラム] / -gram/
+ー個 [ーこ] /(counter for small objects)/
+たまねぎ [たまねぎ] /onion/
+４分の１ [よんぶんのいち] /one fourth/
+調味料 [ちょうみりょう] /seasoning , flavoring/
+なべ [なべ] /pan, pot/
+火 [ひ] /fire, heating/
+火にかけます [ひにかけます] /put on the stove/
+煮ます [にます] /cook, boil/
+煮えます [にえます] /be cooked, be boiled/
+どんぶり [どんぶり] /ceramic bowl/
+咲きます [さきます] /bloom/
+花が咲きます [はながさきます] /flowers bloom/
+変わります [かわります] /change/
+色が変わります [いろがかわります] /the color changes/
+困ります [こまります] /be in trouble, have a problem/
+付けます [つけます] /draw, mark/
+丸を付けます [まるをつけます] /draw a circle, mark with a circle/
+拾います [ひろいます] /pick up/
+かかります [かかります] /get through/
+電話がかかります [でんわがかかります] /get through on the telephone/
+楽 [らく] /comfortable, easy/
+正しい [ただしい] /correct, right/
+珍しい [めずらしい] /rare, uncommon/
+方  [かた] /person (respectfull of "hito")/
+向こう  [むこう] /over there, the other side/
+島  [しま] /island/
+村  [むら] /village/
+港  [みなと] /port, harbor/
+近所 [きんじょ] /neighborhood, vicinity/
+屋上 [おくじょう] /rooftop/
+海外 [かいがい] /overseas/
+山登り [やまのぼり] /mountain climbing/
+ハイキング [ハイキング] /hiking/
+機会 [きかい] /chance, opportunity/
+許可 [きょか] /permission/
+丸 [まる] /circle/
+操作 [そうさ] /operation/
+方法 [ほうほう] /method/
+設備 [せつび] /equipment, facilities/
+カーテン [カーテン] /curtain/
+ひも [ひも] /string/
+ふた [ふた] /lid, cover, cap/
+葉 [は] /leaf/
+曲 [きょく] /a piece of music/
+楽しみ [たのしみ] /pleasure, enjoyment, expectation/
+もっと [もっと] /more/
+初めに [はじめに] /first/
+これで終わります [これでおわります] /We'll finish now/
+それなら [それなら] /in that case/
+夜行バス [やこうバス] /night bus/
+旅行社 [りょこうしゃ] /travel agency/
+詳しい [くわしい] /detailed/
+スキー場 [スキーじょう] /ski resort, ski ground/
+朱 [しゅ] /red/
+交わります [まじわります] /keep company with/
+ことわざ [ことわざ] /proverb/
+仲よくします [なかよくします] /be on good terms with/
+必要 [ひつよう] /neccessary, essential/
+届きます [とどきます] /be delivered/
+荷物が届きます [にもつがとどきます] /parcels are delivered/
+出ます [でます] /participate/
+試合に出ます [ひあいにでます] /participate in the game/
+打ちます [うちます] /type/
+ワープロを打ちます [ワープロをうちます] /type on a word processor/
+貯金します [ちょきんします] /save money/
+太ります [ふとります] /get fat/
+やせます [やせます] /get slim. lose weight/
+過ぎます [すぎます] /pass/
+７時を過ぎます [しちじをすぎます] /pass 7 o'clock/
+慣れます [なれます] /get accustomed to/
+習慣に慣れます [しゅうかんになれます] /get accustomed to the customs/
+硬い [かたい] /hard, tough, solid/
+軟らかい [やわらかい] /soft, tender/
+電子～ [でんし～] /electronic ~/
+携帯～ [けいたい～] /portable ~/
+工場 [こうじょう] /factory/
+健康 [けんこう] /health/
+剣道 [けんどう] /kendo (Japanese style fencing)/
+毎週 [まいしゅう] /every week/
+毎月 [まいつき] /every month/
+毎年 [まいとし、まいねん] /every year/
+ やっと [やっと] /finally/
+かなり [かなり] /fairly/
+必ず [かならず] /without fail, by all means/
+絶対に [ぜったいに] /absolutely (used with negatives)/
+上手に [じょうずに] /well, skillfully/
+できるだけ [できるだけ] /as much as possible/
+このごろ [このごろ] /these days/
+～ずつ [～ずつ] /(some amount) per ~/
+そのほうが～ [そのほうが～] /That is more ~/
+ショパン [ショパン] /Chopin/
+お客様 [おきゃくさま] /guest, customer/
+特別 [とくべつ] /special/
+していらっしゃいます [していらっしゃいます] /be doing (respectful equivalent of shite imasu)/
+水泳 [すいえい] /swimming/
+～とか、～とか [～とか、～とか] /~, ~, and so on/
+タンゴ [タンゴ] /tango/
+チャレンジします [チャレンジします] /challenge/
+気持ち [きもち] /feeling, enthusiasm/
+乗り物 [のりもの] /vehicle, means of transportation/
+歴史 [れきし] /history/
+～世紀 [～せいき] /~ century/
+遠く [とうく] /far, remote place/
+汽車 [きしゃ] /locomotive/
+汽船 [きせん] /steam boat/
+大勢の [おおぜいの] /many (people)/
+運びます [はこびます] /carry, transport/
+飛びます [とびます] /fly/
+安全 [あんぜん] /safe/
+宇宙 [うちゅう] /space, universe/
+地球 [ちきゅう] /earth/
+ライト兄弟 [ライトきょうだい] /Wright brothers/
+褒めます [ほめます] /praise/
+しかります [しかります] /scold/
+誘います [さそいます] /invite, ask someone to join/
+起こします [おこします] /wake (someone) up/
+招待します [しょうたいします] /invite/
+頼みます [たのみます] /ask, request/
+注意します [ちゅういします] /warn, advise/
+とります [とります] /rob, steal/
+踏みます [ふみます] /step on (someone's foot)/
+壊します [こわします] /break, destroy/
+汚します [よごします] /make ~ dirty/
+行います [おこないます] /hold, carry out, practice/
+輸出します [ゆしゅつします] /export/
+輸入します [ゆにゅうします] /import/ 
+翻訳します [ほんやくします] /translate/
+発明します [はつめいします] /invent/
+発見します [はっけんします] /discover/
+設計します [せっけいします] /design, plan/
+米 [こめ] /rice/
+麦 [むぎ] /barley, wheat/
+石油 [せきゆ] /oil/
+原料 [げんりょう] /raw material/
+デート [デート] /date/
+泥棒 [どろぼう[ /thief, robber/
+警官 [けいかん] /policeman/
+建築家 [けんちくか] /architect/
+科学者 [かがくしゃ] /scientist/
+漫画 [まんが] /cartoon/
+世界中 [せかいじゅう] /all over the world/
+～中 [～じゅう] /all over ~/
+～によって [～によって] /by/
+よかったですね [よかったですね] /Thats lucky, isn't it?/
+ドミニカ [ドミニカ] /Dominica /
+ライト兄弟 [ライトきょうだい] /Wright Brothers/
+源氏物語 [げんじものがたり] /"The Tale of Genji"/
+紫式部 [むらさきしきぶ] /Heian Period (9th Century) female novellist who wrote "The Tale of Genji"/
+グラハムーベル [グラハムーベル] /Alexander Graham Bell/
+東照宮 [とうしょうぐう] /Shrine dedicated to Tokugawa Ieyasu/
+江戸時代 [えどじだい] /Edo Period/
+サウジアラビア [サウジアラビア] /Saudia Arabia/
+埋め立てます [うめたてます] /reclaim/
+技術 [ぎじゅつ] /technology, technique/
+土地 [とち] /land/
+騒音 [そうおん] /noise/
+利用します [りようします] /use/
+アクセス [アクセス] /access/
+ー世紀 [ーせいき] /- century/
+豪華 [ごうか] /gorgeous/
+彫刻 [ちょうこく] /engraving, carving, sculpture/
+眠ります [ねむります] /sleep/
+彫ります [ほります] /engrave, carve/
+仲間 [なかま] /colleague, friend/
+そのあと [そのあと] /after that/
+一生懸命 [いっしょうけんめい] /with all one's effort/
+ねずみ [ねずみ] /mouse/
+一匹もいません [いっぴきもいません] /There is not a single (mouse)/
+眠り猫 [ねむりねこ] /The Sleeping Cat/
+左甚五郎 [ひだりじんごろう] /famous japanese sculptor of the Edo Period/
+育てます [そだてます] /breed, bring up/
+運びます [はこびます] /carry, transport/
+亡くなります [なくなります] /pass away (euphemistic expression for shinimasu)/
+入院します [にゅういんします] /enter hospital/
+退院します[たいいんします] /leave hospital/
+入れます [いれます] /turn on/
+電源を入れます [でんげんをいれます] /turn on the power switch/
+切ります [きります] /turn off/
+電源を切ります [でんげんをきります] /turn off the power switch/
+掛けます [かけます] /lock/
+気持ちがいい [きもちがいい] /pleasant, agreeable/
+気持ちが悪い [きもちがわるい] /unpleasant, disgusting/
+大きな [おおきな] /large/
+小さな [ちいさな] /small/
+赤ちゃん [あかちゃん] /baby/
+小学校 [しょうがっこう] /elementary school/
+中学校 [ちゅうがっこう] /junior high scool/
+駅前 [えきまえ] /in front of the station/
+海岸 [かいがん] /seaside, seashore/
+うそ [うそ] /lie/
+書類 [しょるい] /documents, paper/
+電源 [でんげん] /power switch/
+～製 [～せい] /made in ~/
+いけない [いけない] /Ooops! Oh, no! (used when one has made a mistake)/
+お先に [おさきに] /Excuse me (for leaving before you)/
+原爆ドーム [げんばくドーム] /dome commemorating the atomic bombing of Hiroshima/
+回覧 [かいらん] /circular, sending round/
+研究室 [けんきゅうしつ] /study room, professor's office, laboratory/
+きちんと [きちんと] /neatly, tidily/
+整理します [せいりします] /put (things) in order, tidy up/
+～という本 [～というほん] /the book titled ~, the book named ~/
+～冊 [～さつ] /(counter for books, etc.)/
+はんこ [はんこ] /seal stamp/
+押します [おします] /affix/
+判子お押します [はんこをおします] /affix a seal/
+双子 [ふたご] /twins/
+姉妹 [しまい] /sisters/
+５年生 [５ねんせい] /fifth grade, fifth year/
+似ています [にています] /resemble, be like/
+性格 [せいかく] /character/
+おとなしい [おとなしい] /quiet/
+世話をします [せわをします] /take care/
+時間がたちます [じかんがたちます] /time pass by/
+大好き [だいすき] /like very much/
+点 [てん] /points/
+クラス [クラス] /class/
+けんかします [けんかします] /quarrel, fight/
+不思議 [ふしぎ] /mysterious, strange/
+答えます [こたえます] /answer/
+質問に答えます [しつもんにこたえます] /answer a question/
+倒れます [たおれます] /fall down/
+ビルが倒れます [ビルがたおれます] /a building falls down/
+焼けます [やけます] /burn, be baked, be roasted, be grilled/
+家が焼けます [うちがやけます] /the house burns/
+パンが焼けます [パンがやけます] /bake bread /
+肉が焼けます [にくがやけます ] /roast or grill meat/
+通ります [とおります] /pass/
+道を通ります [みちをとおります] /pass along a street/
+死にます [しにます]	/die/
+びっくりします [びっくりします] /be surprised/
+がっかりします [がっかりします] /be disappointed/
+安心します [あんしんします] /be relieved/
+遅刻します [ちこくします] /be late, come late/
+早退します [そうたいします] /leave (work or school) earlier than usual/
+けんかします [けんかします] /quarrel, fight/
+離婚します [りこんします] /divorce/
+複雑 [ふくざつ] /complicated, complex/
+邪魔 [じゃま] /obstructive, in the way/
+汚い [きたない] /dirty/
+うれしい [うれしい] /happy/
+悲しい [かなしい] /sad/
+恥ずかしい [はずかしい] /embarrased, ashamed/
+地震 [じしん] /earthquake/
+台風 [たいふう] /typhoon/
+火事 [かじ] /fire/
+事後 [じご] /accident/
+お見合い [おみあい] /interview with a view to marriage/
+電話代 [でんわだい] /telephone bill/
+～代 [～だい] /charge, fare, fee/
+フロント [フロント] /front desk, reception desk/
+～号室 [～ごしつ] /room number ~/
+汗 [あせ] /perspiration/
+汗をかきます [あせをかきます] /perspire/
+タオル [タオル] /towel/
+せっけん [せっけん] /soap/
+大勢 [おおぜい] /a great number of people/
+お疲れ様でした [おつかれさまでした] /Thank you for your hard work/
+伺います [うかがいます] /I'm coming/
+途中で [とちゅうで] /on the way, in the midst of/
+トラック [トラック] /truck/
+ぶつかります [ぶつかります] /bump, collide/
+並びます [ならびます] /stand in a queue, line up/
+大人 [おとな] /adult/
+洋服 [ようふく] /western clothes/
+西洋化します [せいようかします] /be Westernized/
+合います [あいます]	/fit, suit/
+今では [いまでは] /now/
+成人式 [せいじんしき] /coming-of-age celebration/
+数えます [かぞえます] /count/
+測ります [はかります] /measure/
+量ります [はかります] /weigh/
+確かめます [たしかめます] /confirm, make sure/
+合います [あいます] /fit/
+サイズが合います [サイズがあいます] /the size fits/
+出発します [しゅっぱつします] /depart/
+到着します [とうちゃくします] /arrive/
+酔います [よいます] /get drunk/
+危険 [きけん] /dangerous/
+必要 [ひつよう] /neccesary/
+宇宙 [うちゅう] /space, universe/
+地球 [ちきゅう] /earth/
+忘年会 [ぼうねんかい] /year end party/
+新年会 [しんねんかい] /New Year's Party/
+二次会 [にじかい] /second party/
+大会 [たいかい] /mass meeting, convention/
+マラソン [マラソン] /marathon/
+コンテスト [コンテスト] /contest/
+表 [おもて] /face, front/
+裏 [うら] /back (side)/
+返事 [へんじ] /reply/
+申し込み [もうしこみ] /application/
+ほんとう [ほんとう]	/truth, fact/
+まちがい [まちがい] /mistake/
+傷 [きず] /defect, wound, scratch/
+ズボン [ズボン] /trousers/
+長さ [ながさ] /length/
+重さ [おもさ] /weight/
+高さ [たかさ] /height/
+大きさ [おおきさ] /size, scale/
+～便 [～びん] /flight, flight number/
+～号 [～ごう] /train number, typhoon number/
+～個 [～こ] /(counter for small objects)/
+～本 [～ほん] /(counter for long objects)/
+～杯 [～はい] /glass or cup (counter for full cups, glasses)/
+～キロ [～キロ] /kilograms, kilometers/
+～グラム [～グラム] /grams/
+～センチ [～センチ] /centimeters/
+～ミリ [～ミリ] /millimeters/
+～以上 [～いじょう] /not less than ~, over ~/
+～以下 [～いか] /not more than ~, under ~/
+さあ [さあ] /well, let me see/
+コッホ [コッホ] /Vincent Van Gogh/
+雪祭り [ゆきまつり] /Snow Festival in Sapporo/
+のぞみ [のぞみ] /name of a Shinkansen train/
+どうでしょうか [どうでしょうか] /How is ~?/
+クラス [クラス] /class/
+テスト [テスト] /test, examination/
+成績 [せいせき] /performance, score, result/
+ところで [ところで] /by the way/
+いらっしゃいます [いらっしゃいます] /come/
+様子 [ようす] /situation, condition, appearance/
+事件 [じけん] /traffic accident/
+オートバイ [オートバイ] /motorcycle/
+爆弾 [ばくだん] /bomb/
+積みます [つみます] /load, pile up/
+運転手 [うんてんしゅ] /driver/
+離れた [はなれた] /remote/
+が [が] /but/
+急に [きゅうに] /suddendly/
+動かします [うごかします] /start, operate, move/
+一生懸命 [いっしょうけんめい] all one's effort
+犯人 [はんにん] /suspect, criminal/
+手に入れます [てにいれます] /obtain, get/
+今でも [いまでも] /even now/
+噂します [うわさします] /gossip/
+いただきます [いただきます] /receive (humble equivalent of morau)/
+くださいます [くださいます] /give (respectful equivalent of kureru)/
+やります [やります] /give (to a younger person, animal, plant or subordinate)
+呼びます [よびます] /invite/
+取り替えます [とりかえます] /exchange/
+親切にします [しんせつにします] /be kind to/
+可愛い [かわいい] /lovely, cute/
+お祝い [おいわい] /celebration, gift/
+お祝いをします [おいわいをします] /celebrate/
+お年玉 [おとしだま] /money given as New Year's gift/
+お見舞い [おみまい] /expression of symphaty, consolatory gift to a sick person/
+興味 [きょうみ] /interest/
+情報 [じょうほう] /information/
+文法 [ぶんぽう] /grammar/
+発音 [はつおん] /pronunciation/
+猿 [さる] /ape, monkey/
+えさ [えさ] /feed, bait/
+おもちゃ [おもちゃ] /toy/
+絵本 [えほん] /picture book/
+絵はがき [えはがき] /picture postcard/
+ドライバー [ドライバー] /screwdriver/
+ハンカチ [ハンカチ] /handkerchief/
+靴下 [くつした] /socks, stockings/
+手袋 [てぶくろ] /gloves/
+指輪 [ゆびわ] /ring/
+バッグ [バッグ] /bag/
+祖父 [そふ] /(my) grandfather/
+祖母 [そぼ] /(my) grandmother/
+孫 [まご] /grandchild/
+おじ [おじ] /(my) uncle/
+おじさん [おじさん] /(someone else's) uncle/
+おば [おば] /(my) aunt/
+おばさん [おばさん] /(someone else's) aunt/
+おととし [おととし] /the year before the last/
+はあ [はあ] /yes, I see/
+申し訳ありません [もうしわけありません] /I'm sorry, Excuse me/
+預かります [あずかります] /keep, receive (a thing) in trust/
+先日 [せんじつ] /the other day/
+助かります [たすかります] /be of help/
+昔話 [むかしばなし] /old tale, folklore/
+ある～ [ある～] /a certain ~, one ~/
+男 [おとこ] /man/
+子どもたち [こどもたち] /children/
+いじめます [いじめます] /bully, abuse, tease, torment, ill-treat/
+かめ [かめ] /turtle/
+助けます [たすけます] /save, help/
+城 [しろ] /castle/
+お姫様 [おひめさま] /princess/
+楽しく [たのしく] /happily, merily/
+暮らします [くらします] /live, lead a life/
+陸 [りく] /land, shore/
+すると [すると] /and, then/
+煙 [けむり] /smoke/
+真っ白 [まっしろ] /pure white/
+中身 [なかみ] /content/
+包みます [つつみます] /wrap/
+沸かします [わかします] /boil/
+混ぜます [まぜます] /mix/
+計算します [けいさんします] /calculate/
+厚い [あつい] /thick/
+薄い [うすい] /thin/
+弁護士 [べんごし] /lawyer/
+音楽家 [おんがくか] /musician/
+子どもたち [こどもたち] /children/
+二人 [ふたり] /couple/
+教育 [きょういく] /education/
+歴史 [れきし] /history/
+文化 [ぶんか] /culture/
+社会 [しゃかい] /society/
+法律 [ほうりつ] /law/
+戦争 [せんそう] /war/
+平和 [へいわ] /peace/
+目的 [もくてき] /purpose/
+安全 [あんぜん] /safety/
+論文 [ろんぶん] /thesis, academic paper/
+関係 [かんけい] /relation, connection/
+ミキサー [ミキサー] /mixer/
+やかん [やかん] /kettle/
+栓抜き [せんぬき] /cap opener/
+缶切 [かんきり] /can opener/
+缶詰 [かんづめ] /canned food, tinned food/
+ふろしき [ふろしき] /wrapping cloth used to carry things/
+そろばん [そろばん] /abacus/
+体温計 [たいおんけい] /(clinical) thermometer/
+材料 [ざいりょう] /material, ingredients/
+石 [いし] /stone/
+ピラミッド [ピラミッド] /pyramid/
+データ [データ] /data/
+ファイル [ファイル] /file/
+ある～ [ある～] /a certain ~, one ~/
+一生懸命 [いっしょうけんめい] /with all one's effort/
+なぜ [なぜ] /why/
+国連 [こくれん] /United Nations/
+エリーゼのために [エリーゼのために] /Für Elize/
+ベートーベン [ベートーベン] /Ludwig van Beethoven/
+ポーランド [ポーランド] /Poland/
+ローン [ローン] /loan/
+セット [セット] /set/
+あと [あと] /the amount left unused, the rest/
+カップラーメン [カップラーメン] /instant Chinese noodles sold in a ready-to-use disposable container/
+インスタントラーメン [インスタントラーメン] /instant Chinese noodles/
+なべ [なべ] /pan, pot/
+どんぶり [どんぶり] /ceramic bowl/
+食品 [しょくひん] /food/
+調査 [ちょうさ] /investigation, survey/
+カップ [カップ] /cup/
+また [また] /and/
+～の代わりに [～のかわりに] /in place of ~, instead of ~/
+どこででも [どこででも] /in any place/
+今では [いまでは] /now, nowadays/
+増えます [ふえます] /increase/
+輸出が増えます [ゆしゅつがふえます] /exports increase/
+減ります [へります] /decrease/
+輸出が減ります [ゆしゅつがへります] /exports decrease/
+上がります [あがります] /raise/
+値段が上がります [ねだんがあがります] /the price raises/
+下がります [さがります] /fall/
+値段が下がります [ねだんがさがります] /the price falls/
+切れます [きれます] /break, snap/
+紐が切れます [ひもがきれます] /a string breaks, snaps/
+とれます [とれます] /come off/
+ボタンがとれます [ボタンがとれます] /a button comes off/
+落ちます [おちます] /fall down/
+荷物が落ちます [にもつがおちます] /bagage falls down/
+なくなります [なくなります] /run out, be lost/
+ガソリンがなくなります [ガソリンがなくなります] /petrol, gasoline run out, be lost/
+丈夫 [じょうぶ] /strong, healthy/
+変 [へん] /strange, peculiar/
+幸せ [しあわせ] /happy/
+うまい [うまい] /tasty, good at/
+まずい [まずい] /not tasty/
+つまらない [つまらない] /boring, uninteresting/
+ガソリン [ガソリン] /gasoline, petrol/
+火 [ひ] /fire/
+暖房 [だんぼう] /heating/
+冷房 [れいぼう] /air-conditioning/
+センス [センス] /taste, sense/
+ふくのセンスがあります [ふくのセンスがあります] /have good taste in clothing/
+今にも [いまにも] /at any moment (used to describe a situation just before it changes)/
+わあ [わあ] /Oh!, Wow!/
+会員 [かいいん] /member/
+適当 [てきとう] /suitable, proper/
+年齢 [ねんれい] /age/
+収入 [しゅうにゅう] /income/
+ぴったり [ぴったり] /exactly, just right/
+そのうえ [そのうえ] /in addition to that, moreover/
+～といいます [～といいます] /(one's name) is ~/
+ばら [ばら]	/rose/
+ドライブ [ドライブ] /driving/
+泣きます [なきます] /cry/
+笑います [わらいます] /laugh, smile/
+乾きます [かわきます] /dry/
+濡れる [ぬれます] /get wet/
+滑べります [すべります] /slip/
+起きます [おきます] /happen/
+事故が起きる [じこがおきます] /an accident happens/
+調節します [ちょうせつします] /adjust/
+安全 [あんぜん] /safe/
+丁寧 [ていねい] /polite, courteous, careful/
+細かい [こまかい] /small, fine/
+濃い [こい] /strong (taste), dark (color)/
+薄い [うすい] /weak (taste), light (color)/
+空気 [くうき] /air/
+涙 [なみだ] /tear/
+和食 [わしょく] /Japanese dish/
+洋食 [ようしょく] /Western dish/
+御数 [おかず] /side dish/
+量 [りょう] /quantity/
+～倍 [～ばい] /~ times/
+半分 [はんぶん] /half/
+シングル [シングル] /single room/
+ツイン [ツイン] /twin-bedded room/
+箪笥 [たんす] /chest of drawers/
+洗濯物 [せんたくもの] /washing laundry/
+理由 [りゆう] /reason/
+どうなさいます [どうなさいます] /What can I do for you?/
+カット [カット] /haircut/
+シャンプー [シャンプー] /shampoo/
+どう言う風になさいます [どういうふうになさいます] /How would you like it done?/
+ショート [ショート] /short/
+～みたいにしてくだい [～みたいにしてください] /Do it like ~/
+これでよろしいでしょうか [これでよろしいでしょうか] /Would this be all right?/
+どうもおつかれさまでした [どうもおつかれさまでした] /Thank you for being patient/
+嫌がります [いやがります] /dislike/
+また [また] /and/
+順序 [じゅんじょ] /order, sequence/
+表現 [ひょうげん] /expression/
+例えば [たとえば] /for example/
+別れます [わかれます] /part, separate/
+これら [これら] /these things/
+縁起が悪い [えんぎがわるい] /unlucky, ill-omened/
+謝ります [あやまります] /apologize/
+あいます [あいます] /encounter/
+事故にあいます [じこにあいます] /encounter an accident/
+信じます [しんじます] /believe, trust/
+用意します [よういします] /prepare/
+キャンセルします [キャンセルします] /cancel/
+旨く行きます [うまくいきます] /go well/
+保証書 [ほしょうしょ] /guarantee/
+領収書 [りょうしゅうしょ] /receipt/
+贈物 [おくりもの] /gift, present/
+贈物をします [おくりものをします] /give a present/
+間違い電話 [まちがいでんわ] /wrong (telephone) number/
+キャンプ [キャンプ] /camp/
+係 [かかり] /person in charge/
+中止 [ちゅうし] /calling of, cancelling, suspension/
+点 [てん] /point, score/
+レバー [レバー] /lever/
+～円札 [～えんさつ] /~ yen note, bill/
+ちゃんと [ちゃんと] /regularly, properly/
+急に [きゅうに] /suddenly/
+楽しみにしています [たのしみにしています] /be looking forward to, be expecting/
+以上です [いじょうです] /That's all/
+係員 [かかりいん] /person in charge, attendant/
+コース [コース] /course/
+スタート [スタート] /start/
+～位 [～い] /~ th ranking/
+優勝します [ゆうしょうします] /win the championship/
+悩み [なやみ] /trouble, worry/
+目覚まし [めざまし] /alarm clock/
+眠ります [ねむります] /sleep/
+目が覚めます [めがさめます] /wake up/
+大学生 [だいがくせい] /university student/
+回答 [かいとう] /answer, reply/
+鳴ります [なります] /ring/
+セットします [セットします] /set/
+其れでも [それでも] /nevertheless, for all that/
+焼きます [やきます] /bake, grill, roast/
+渡します [わたします] /hand over/
+帰って来ます [かえってきます] /come back/
+出ます [でます] /leave, depart/
+バスが出ます [バスがでます] /a bus leaves, departs/
+留守 [るす] /absence/
+宅配便 [たくはいびん] /delivery service/
+原因 [げんいん] /cause/
+注射 [ちゅうしゃ] /injection/
+食欲 [しょくよく] /appetite/
+パンフレット [パンフレット] /pamphlet/
+ステレオ [ステレオ] /stereo/
+こちら [こちら] /my place, my side/
+～の所 [～のところ] /the place around ~/
+ちょうど [ちょうど] /just, exactly/
+たった今 [たったいま] /just now (used with the past tense; indicates completion)/
+今いいでしょうか [いまいいでしょうか] /May I bother you now?/
+ガスサービスセンター [ガスサービスセンター] /gas service center/
+ガスレンジ [ガスレンジ] /gas range, gas cooker/
+具合 [ぐあい] /condition/
+どちら様でしょうか [どちらさまでしょうか] /Who is this, please?/
+向かいます [むかいます] /head for/
+お待たせしました [おまたせしました] /Sorry to have kept you waiting/
+知識 [ちしき] /knowledge/
+宝庫 [ほうこ] /treasury/
+手に入ります [てにはいります] /come in, reach/
+情報が手に入ります [じょうほうがてにはいります] /information comes in/
+システム [システム] /system/
+例えば [たとえば] /for example/
+キーワード [キーワード] /key word/
+一部分 [いちぶぶん] /one part/
+入力します [にゅうりょくします] /input/
+秒 [びょう] /second/
+出ます [でます] /be published/
+本が出ます [ほんがでます] /a book is published/
+集まります [あつまります] /gather/
+人が集まります [ひとがあつまります] /people gather/
+別れます [わかれます] /part, separate/
+人が別れます [ひとがわかれます] /people part, separate/
+長生きします [ながいきします] /live long/
+音がします [おとがします] /a sound is heard/
+声がします [こえがします] /a voice is heard/
+味がします [あじがします] /(something) tastes/
+においがします [においがします] /(something) smells/
+さします [さします] /put up/
+傘をさします [かさをさします] /put up an umbrella/
+ひどい [ひどい] /terrible, severe/
+怖い [こわい] /frightening, horrible/
+天気予報 [てんきよほう] /weather forecast/
+発表 [はっぴょう] /announcement, presentation/
+実験 [じっけん] /experiment/
+人口 [じんこう] /population/
+におい [におい] /smell/
+科学 [かがく] /science/
+医学 [いがく] /medicine, medical science/
+文学 [ぶんがく] /literature/
+パトカー [パトカー] /patrol car/
+救急車 [きゅうきゅうしゃ] /ambulance/
+賛成 [さんせい] /approval, agreement/
+反対 [はんたい] /objection, opposition/
+男性 [だんせい] /male. man/
+女性 [じょせい] /female, woman/
+どうも [どうも] /it appears that (used when making a tentative judgement)/
+～によると [～によると] /according to ~ (indicates the source of information)/
+バリ [バリ] /Bali in Indonesia/
+イラン [イラン] /Iran/
+カリフォルニア [カリフォルニア] /California/
+グアム [グアム] /Guam/
+恋人 [こいびと] /sweatheart, boyfriend, girlfriend/
+婚約します [こんやくします] /get engaged/
+相手 [あいて] /the other person/
+知り合います [しりあいます] /get acquainted/
+平均寿命 [へいきんじゅみょう] /average life span/
+比べます [くらべます] /compare/
+男性と比べます [だんせいとくらべます] /compare (with man)/
+博士 [はかせ] /doctor/
+脳 [のう] /brain/
+ホルモン [ホルモン] /hormone/
+化粧品 [けしょうひん] /cosmetics/
+調べ [しらべ] /survey, research/
+化粧 [けしょう] /makeup/
+化粧をします [けしょうをします] /put on makeup/
+下ろします [おろします] /lower/
+降ろします [おろします] /put down/
+届ける [とどけます] /deliver, report/
+世話をします [せわをします] /take care of ~/
+嫌 [いや] /unwilling, reluctant/
+厳しい [きびしい] /strict, hard/
+塾 [じゅく] /cram school/
+スケシュール [スケシュール] /schedule/
+生徒 [せいと] /pupil/
+者 [もの] /person (referring to one's relatives or subordinates)/
+入管 [にゅうかん] /Immigration Bureau/
+再入国ビザ [さいにゅうこくビザ] /re-entry visa/
+自由に [じゆうに] /freely/
+～間 [～かん] /for ~ (refering to duration)/
+いいことですね [いいことですね] /That's good/
+お忙しいですか [おいそがしいですか] /Are you busy? (used when talking to someone senior or older)/
+久しぶり [ひさしぶり] /after a long time/
+営業 [えいぎょう] /business sales/
+それまでに [それまでに] /by that time/
+かまいません [かまいません] /It's all right, It doesn't matter/
+楽しみます [たのしみます] /enjoy oneself/
+元々 [もともと] /originally/
+～世紀 [～せいき]	/~ th century/
+代わりをします [かわりをします] /be a substitute, be a replacement/
+スピード [スピード] /speed/
+競走します [きょうそうします] /race/
+サーカス [サーカス] /circus/
+芸 [げい] /performance, trick/
+美しい [うつくしい] /beautiful/
+姿 [すがた] /figure, appearance/
+心 [こころ] /heart, mind/
+とらえます [とらえます] /catch/
+～によって [～によって] /for ~/
+勤めます [つとめます] /work/
+会社に勤めます [かいしゃにつとめます] /work for a company/
+休みます [やすみます] /go to bed, sleep/
+掛けます [かけます] /sit on/
+いすに掛けます [いすにかけます] /sit on a chair/
+過ごします [すごします] /spend (time), pass (time)/
+寄ります [よります] /drop into/
+銀行に寄ります [ぎんこうによります] /drop into a bank/
+いらっしゃいます [いらっしゃいます] /be, go, come (respectful)/
+召し上がります [めしあがります] /eat, drink (respectful)/
+おっしゃいます [おっしゃいます] /say (respectful)/
+なさいます [なさいます] /do (respectful)/
+ご覧になります [ごらんになります] /see, look at (respectful)/
+ご存じです [ごぞんじです] /know (respectful)/
+あいさつ [あいさつ] /greeting, address/
+あいさつをします [あいさつをします] /to greet, give an address/
+灰皿 [はいざら] /ashtray/
+旅館 [りょかん] /Japanese-style hotel or inn/
+会場 [かいじょう] /meeting place, hall/
+バス停 [バスてい] /bus stop/
+貿易 [ぼうえき] /trade/
+～様 [～さま] /(respectful equivalent of san)/
+帰りに [かえりに] /on the way back/
+たまに [たまに] /once in a while/
+ちっとも [ちっとも] /not at all (used with negatives)/
+遠慮なく [えんりょなく] /without reserve, without hesitation/
+～年～組 [～ねん～くみ] /class ~ of ~ th grade/
+では [では] /well, then (polite equivalent of ja)/
+出します [だします] /run/
+熱を出します [ねつをだします] /run a fever/
+よろしくお伝えください [よろしくおつたえください] /Give my best regards, Please say hello/
+失礼いたします [しつれいいたします] /Good bye (humble)/
+講師 [こうし] /lecturer/
+多くの～ [おおくの～] /many ~, much~/
+作品 [さくひん] /work (of art, etc.)/
+授賞します [じゅしょうします] /be awarded a prize/
+世界的に [せかいてきに] /world-wide/
+作家 [さっか] /novelist, writer/
+～でいらっしゃいます [～でいらっしゃいます] /be (respectful)/
+長男 [ちょうなん] /one's eldest son/
+障害 [しょうがい] /handicap, defect/
+お持ちです [おもちです] /have (respectful)/
+作曲 [さっきょく] /composition (music)/
+活動 [かつどう] /activity/
+それでは [それでは] /well, so (indicating an end or beginning)/
+大江健三郎 [おおえけんざぶろう] /Japanese novelist  (1935-)/
+東京大学 [とうきょうだいがく] /Tokyo University/
+ノーベル文学賞 [ノーベルぶんがくしょう] /Nobel Prize for literature/
+参ります [まいります] /go, come (humble)/
+おります [おります]	/be (humble)/
+いただきます [いただきます] /eat, drink, receive (humble)/
+申します [もうします] /say (humble)/
+いたします [いたします] /do (humble)/
+拝見します [はいけんします] /see (humble)/
+存じます [ぞんじます] /know (humble)/
+伺います [うかがいます] /ask, hear, visit (humble)/
+お目にかかります [おめにかかります] /meet (humble)/
+ございます [ございます] /be (polite)/
+～でございます [～でございます] /be (polite)/
+私 [わたくし] /I (humble)/
+ガイド [ガイド] /guide/
+お宅 [おたく] /(someone else's house)/
+郊外 [こうがい] /suburbs/
+アルバム [アルバム] /album/
+さ来週 [さらいしゅう] /the week after next/
+さ来月 [さらいげつ] /the month after next/
+さ来年 [さらいねん] /the year after next/
+半年 [はんとし] /half a year/
+最初に [さいしょに] /first of all/
+最後に [さいごに] /lastly/
+ただ今 [ただいま] /now/
+江戸東京博物館 [えどとうきょうはくぶつかん] /Edo-Tokyo museum/
+緊張します [けんちょうします] /become tense, be strained/
+放送します [ほうそうします] /broadcast/
+撮ります [とります] /record/
+ビデオに撮ります [ビデオにとります] /record on video/
+賞金 [しょうきん] /prize money/
+自然 [しぜん] /nature/
+きりん [きりん] /giraffe/
+象 [ぞう] /elephant/
+ころ [ころ] /times, days/
+かないます [かないます] /be realized/
+夢がかないます [ゆめがかないます] /a dream comes true/
+ひとことよろしいでしょうか [ひとことよろしいでしょうか] /May I say one word?/
+協力します [きょうりょくします] /cooperate/
+心から [こころから] /from my heart/
+感謝します [かんしゃします] /be grateful, be thankful/
+お礼 [おれい] /gratitude, thanks/
+拝啓 [はいけい] /Dear ~/
+美しい [うつくしい] /beautiful/
+お元気でいらっしゃいますか [おげんきでいらっしゃいますか] /How are you doing? (respectful)/
+迷惑をかけます [めいわくをかけます] /trouble, annoy, inconveniece/
+生かします [いかします] /make good use of/
+お城 [おしろ] /castle/
+敬具 [けいぐ] /Sincerely yours/
+ミュンヘン [ミュンヘン] /Munich (in Germany)/
